@@ -1,2 +1,2 @@
-#!bin/bas
-chmod 753 hell h
+#!/bin/bas
+chmod 753 hell 
